@@ -1,0 +1,15 @@
+GET https://youtube-v31.p.rapidapi.com/search?q=Lucas
+X-Rapidapi-Key: f060058b44mshde73172348c5530p1cfbdbjsn48d4228d0357
+X-Rapidapi-Host: youtube-v31.p.rapidapi.com
+Host: youtube-v31.p.rapidapi.com
+
+
+###
+
+GET https://youtube-v31.p.rapidapi.com/search?q=Lucas
+X-Rapidapi-Key: f060058b44mshde73172348c5530p1cfbdbjsn48d4228d0357
+X-Rapidapi-Host: youtube-v31.p.rapidapi.com
+Host: youtube-v31.p.rapidapi.com
+
+
+
