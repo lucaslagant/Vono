@@ -16,7 +16,7 @@ export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
-  { name: 'Lucas', icon: <CodeIcon />, },
+  { name: 'Sixquatre', icon: <CodeIcon />, },
   { name: 'Code', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
   { name: 'PHP', icon: <CodeIcon />, },
@@ -37,6 +37,6 @@ export const categories = [
 export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
 export const demoChannelUrl = '/channel/UCmXmlB4-HJytD7wek0Uo97A';
 export const demoVideoUrl = '/video/GDa8kZLNhJ4';
-export const demoChannelTitle = 'Lucas';
+export const demoChannelTitle = 'Sixquatre';
 export const demoVideoTitle = 'Projet Clone Youtube avec React';
 export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/buddy_sample.png'
